@@ -229,3 +229,4 @@ $discard,site=wsj.com
 $discard,site=vox.com
 $discard,site=factcheck.org
 $discard,site=snopes.com
+$discard,site=dailymail.co.uk
