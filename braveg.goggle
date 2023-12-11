@@ -8,6 +8,7 @@
 $discard,site=youtube.com
 
 ! sites i found
+$boost=3,site=dailyrake.ca
 $boost=3,site=100percentfedup.com
 $boost=3,site=trendingpoliticsnews.com
 $boost=3,site=bigleaguepolitics.com
@@ -64,6 +65,7 @@ $boost=3,site=theimaginativeconservative.org
 $boost=3,site=theblaze.com
 $boost=3,site=theamericanconservative.com
 $boost=3,site=spectator.org
+$boost=3,site=rumble.com
 $boost=3,site=newsmax.com
 $boost=3,site=nationalreview.com
 $boost=3,site=infowars.com
@@ -92,7 +94,6 @@ $boost=2,site=thefederalist.com
 $boost=2,site=theepochtimes.com
 $boost=2,site=thedispatch.com
 $boost=2,site=thecollegefix.com
-$boost=2,site=telegraph.co.uk
 $boost=2,site=tabletmag.com
 $boost=2,site=rt.com
 $boost=2,site=riponadvance.com
@@ -147,6 +148,8 @@ $boost=2,site=amgreatness.com
 $boost=2,site=americanmind.org
 
 ! from my searxng filters list
+$discard,site=music.apple.com
+$discard,site=www.twitch.tv
 $discard,site=amazon.com
 $discard,site=facebook.com
 $discard,site=adl.org
@@ -204,6 +207,7 @@ $discard,site=time.com
 $discard,site=timesofisrael.com
 $discard,site=linkedin.com
 $discard,site=instagram.com
+$discard,site=www.instagram.com
 $discard,site=netflix.com
 $discard,site=apps.apple.com
 $discard,site=play.google.com
@@ -230,3 +234,17 @@ $discard,site=vox.com
 $discard,site=factcheck.org
 $discard,site=snopes.com
 $discard,site=dailymail.co.uk
+$discard,site=news.bloomberglaw.com
+$discard,site=bloomberglaw.com
+$discard,site=www.bloombergmedia.com
+$discard,site=bloombergmedia.com
+$discard,site=www.bloomberg.com
+$discard,site=bloomberg.com
+$discard,site=www.bestbuy.com
+$discard,site=bestbuy.com
+$discard,site=www.target.com
+$discard,site=target.com
+$discard,site=people.com
+$discard,site=www.people.com
+$discard,site=www.thetrevorproject.org
+$discard,site=thetrevorproject.org
